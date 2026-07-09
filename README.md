@@ -1,16 +1,23 @@
-## Hi there 👋
+# Mohammad AbuNemeh
 
-<!--
-**mabunemeh/mabunemeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sr. Cloud Engineer — cloud automation & OpenStack**
 
-Here are some ideas to get you started:
+I build and operate private cloud infrastructure, with a focus on making OpenStack deployments reproducible and self-maintaining through automation. Most of my work lives in the space between the control plane and the pipeline: Ansible for configuration, Terraform for provisioning, and Python for the glue that ties it together. Lately I've been building **openstack-janitor**, a Python CLI that audits OpenStack clouds for orphaned resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects
+
+- **openstack-janitor** — a CLI that scans OpenStack projects for orphaned volumes, ports, and other stray resources. In active development; will be linked here once it's public.
+
+### Links
+
+- LinkedIn: [linkedin.com/in/mohammad-a-23660830b](https://www.linkedin.com/in/mohammad-a-23660830b/)
+- Email: [mabunemeh@protonmail.com](mailto:mabunemeh@protonmail.com)
+
+### Tech
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)]
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
