@@ -2,7 +2,7 @@
 
 **Sr. Cloud Engineer — cloud automation & OpenStack**
 
-I build and operate private cloud infrastructure, with a focus on making OpenStack deployments reproducible and self-maintaining through automation. Most of my work lives in the space between the control plane and the pipeline: Ansible for configuration, Terraform for provisioning, and Python for the glue that ties it together. Lately I've been building **openstack-janitor**, a Python CLI that audits OpenStack clouds for orphaned resources.
+I build and operate private cloud infrastructure based on OpenStack, with a focus on making OpenStack deployments reproducible and self-maintaining through automation. Most of my work lives in the space between the control plane and the pipeline: With Ansible and python based automation. Lately I've been building **openstack-janitor**, a Python CLI that audits OpenStack clouds for orphaned resources.
 
 ### Current projects
 
