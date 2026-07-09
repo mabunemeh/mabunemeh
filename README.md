@@ -15,7 +15,7 @@ I build and operate private cloud infrastructure, with a focus on making OpenSta
 
 ### Tech
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)]
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?logo=openstack&logoColor=white)
