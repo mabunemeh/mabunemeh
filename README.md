@@ -6,7 +6,7 @@ I build and operate private cloud infrastructure based on OpenStack, with a focu
 
 ### Current projects
 
-- **openstack-janitor** — a CLI that scans OpenStack projects for orphaned volumes, ports, and other stray resources. In active development; will be linked here once it's public.
+- **[openstack-janitor](https://github.com/mabunemeh/openstack-janitor)** — a CLI that audits OpenStack clouds for orphaned volumes, floating IPs, ports, snapshots, and more. Six read-only detectors, table/JSON/HTML reports. [On PyPI](https://pypi.org/project/openstack-janitor/) — `pipx install openstack-janitor`.
 
 ### Links
 
