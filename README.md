@@ -6,7 +6,8 @@ I build and operate private cloud infrastructure based on OpenStack, with a focu
 
 ### Current projects
 
-- **[openstack-janitor](https://github.com/mabunemeh/openstack-janitor)** — a CLI that audits OpenStack clouds for orphaned volumes, floating IPs, ports, snapshots, and more. Six read-only detectors, table/JSON/HTML reports. [On PyPI](https://pypi.org/project/openstack-janitor/) — `pipx install openstack-janitor`.
+- **[openstack-janitor](https://github.com/mabunemeh/openstack-janitor)** — a CLI that audits OpenStack clouds for orphaned volumes, floating IPs, ports, snapshots, and more. Eight read-only detectors, table/JSON/HTML reports. [On PyPI](https://pypi.org/project/openstack-janitor/) — `pipx install openstack-janitor`.
+- **[limits-explain](https://github.com/mabunemeh/limits-explain)** — a CLI that shows every limit binding a Linux process — rlimits, cgroup v2, and systemd directives — with current usage and which ceiling you hit first.
 
 ### Links
 
