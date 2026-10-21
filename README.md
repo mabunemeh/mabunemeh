@@ -1,8 +1,9 @@
 # Mohammad AbuNemeh
 
-**Sr. Cloud Engineer — cloud automation & OpenStack**
+**Sr. Cloud Engineer **
 
-I build and operate private cloud infrastructure based on OpenStack, with a focus on making OpenStack deployments reproducible and self-maintaining through automation. Most of my work lives in the space between the control plane and the pipeline: With Ansible and python based automation. Lately I've been building **openstack-janitor**, a Python CLI that audits OpenStack clouds for orphaned resources.
+Private clouds, linux, and everything in between.
+Main focus on OpenStack.
 
 ### Current projects
 
