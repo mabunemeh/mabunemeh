@@ -1,6 +1,6 @@
 # Mohammad AbuNemeh
 
-**Sr. Cloud Engineer **
+**Sr. Cloud Engineer**
 
 Private clouds, linux, and everything in between.
 Main focus on OpenStack.
